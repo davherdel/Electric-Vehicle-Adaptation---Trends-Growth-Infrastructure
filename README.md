@@ -91,26 +91,26 @@ https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2025#glob
 
 ### 📊 **Key Findings (Summary)**
 
-### 🔥 **1. EV adoption has accelerated globally**
+### **1. EV adoption has accelerated globally**
 - Asia Pacific leads in total EV adoption.
 - Europe and North America also show strong, consistent growth.
 - Total EV sales globally exceed **77 million units** since 2010.
 
-### 🔥 **2. Europe’s EV market leaders**
-- Top EV sellers in Europe (2024): *Norway, Germany, France, United Kingdom, Netherlands.*
-- Top charging point installers: *Netherlands, France, Germany, United Kingdom, Norway.*
+### **2. Europe’s EV market leaders**
+- Top EV sellers in Europe (2024): *United Kingdom, Germany, France, Netherlands, Belgium.*
+- Top charging point installers: *Netherlands, Germany, France, United Kingdom, Belgium.*
 
-### 🔥 **3. Highest EV growth in Europe**
+### **3. Highest EV growth in Europe**
 - Countries with the steepest increase between 2010–2024:
-  - **Norway**
-  - **Netherlands**
   - **Germany**
+  - **United Kingdom**
   - **France**
-  - **Sweden**
+  - **Belgium**
+  - **Netherlands**
 
 Lollipop and bar charts illustrate these trends.
 
-### 🔥 **4. Environmental benefits**
+### **4. Environmental benefits**
 - **>64 billion liters** of petroleum avoided globally (2010–2024).
 - For Europe:
   - **2024:** 7.4 million households could be powered by EV charging electricity.
