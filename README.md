@@ -2,7 +2,7 @@
 
 # 🚗⚡ Electric Vehicle Adoption & Trends (2010–2024)
 
-This project analyzes European electric vehicle (EV) trends using data from 2010 to 2024, with forward-looking estimates through 2030.  
+This project analyzes European electric vehicle (EV) trends using data from 2010 to 2024.
 Last dataset update: **May 2025** (International Energy Agency – IEA).
 
 The goal is to understand EV adoption growth, charging infrastructure expansion, and the environmental impact of the transition from combustion vehicles to electric mobility.  
